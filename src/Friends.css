@@ -1,0 +1,6 @@
+.Box {
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid pink;
+  border-radius: 10px;
+}
